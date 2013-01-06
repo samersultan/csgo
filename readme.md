@@ -11,7 +11,7 @@
 
 
 
-**Created: 12 31 2012 | Last Updated: 12 31 2012**
+**Created: 12 31 2012 | Last Updated: 1 5 2013**
 
 ---
 
@@ -51,5 +51,6 @@ The following is my custom configuration for Counter Strike Global Offensive. Fe
 
 **Change Log:** 
 
-1 3 2012 : 
-Added 6 different crosshairs and binded them to keys on numpad 1-6 
+January 05, 2013
+
+Added 8 Crosshairs + Weapon Binds 
