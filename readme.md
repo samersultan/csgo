@@ -11,7 +11,7 @@
 
 
 
-**Created: 12 31 2012 | Last Updated: 1 5 2013**
+**Created: 12 31 2012 | Last Updated: 1 30 2013**
 
 ---
 
@@ -49,7 +49,13 @@ The following is my custom configuration for Counter Strike Global Offensive. Fe
 
 ---
 
+
 **Change Log:** 
+
+
+January 30, 2013
+
+Add keybind to buy guns + changes crosshairs 
 
 January 05, 2013
 
