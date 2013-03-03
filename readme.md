@@ -11,7 +11,7 @@
 
 
 
-**Created: 12 31 2012 | Last Updated: 1 30 2013**
+**Created: 12 31 2012 | Last Updated: 3 03 2013**
 
 ---
 
@@ -52,6 +52,9 @@ The following is my custom configuration for Counter Strike Global Offensive. Fe
 
 **Change Log:** 
 
+March 03, 2013
+
+Added jump bind to mouse wheel
 
 January 30, 2013
 
