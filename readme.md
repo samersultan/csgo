@@ -11,7 +11,7 @@
 
 
 
-**Created: 12 31 2012 | Last Updated: 3 03 2013**
+**Created: 12 31 2012 | Last Updated: 3 23 2013**
 
 ---
 
@@ -51,6 +51,10 @@ The following is my custom configuration for Counter Strike Global Offensive. Fe
 
 
 **Change Log:** 
+
+March 23, 2013
+
+Moded two crosshairs, fixed error. 
 
 March 03, 2013
 
