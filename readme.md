@@ -11,14 +11,17 @@
 
 
 
-**Created: 12 31 2012 | Last Updated: 3 23 2013**
+**Created: 12 31 2012 | Last Updated: 3 28 2013**
 
 ---
 
 **Introduction:**
 
 
-The following is my custom configuration for Counter Strike Global Offensive. Feel free to tweak these settings to your liking. Before you start, make sure to create a backup of your current config.cfg file, you can simply rename it to config.old
+The following is my custom configuration for Counter Strike Global Offensive, I have spent a considerable amount of time researching and compliling what I have found to be the best settings. View this autoexec as a good "frame work" and build upon it, feel free to tweak these settings to your liking. 
+
+
+Before you start, make sure to create a backup of your current config.cfg file, you can simply rename it to config.old
 
 
 
@@ -51,6 +54,10 @@ The following is my custom configuration for Counter Strike Global Offensive. Fe
 
 
 **Change Log:** 
+
+March 28, 2013
+
+Fine tuned crosshairs, removed volume binds (as per user requests). 
 
 March 23, 2013
 
