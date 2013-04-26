@@ -11,7 +11,7 @@
 
 
 
-**Created: 12 31 2012 | Last Updated: 3 28 2013**
+**Created: 12 31 2012 | Last Updated: 4 25 2013**
 
 ---
 
@@ -54,6 +54,10 @@ Before you start, make sure to create a backup of your current config.cfg file, 
 
 
 **Change Log:** 
+
+April 25, 2013
+
+Added Mag 7 to F11 bind. 
 
 March 28, 2013
 
