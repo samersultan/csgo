@@ -11,7 +11,7 @@
 
 
 
-**Created: 12 31 2012 | Last Updated: 4 26 2013**
+**Created: 12 31 2012 | Last Updated: 5 11 2013**
 
 ---
 
@@ -31,9 +31,6 @@ The following is my custom configuration for Counter Strike Global Offensive, I 
 <li>The autoexec.cfg and config.cfg files will need to be uploaded to the following location on your local drive: 
 <br />
 \Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
-<br />The hud files within the "flash" folder are located at the following location on your local drive, they will need to be uploaded to the following location:
-<br /> 
-Steam\SteamApps\common\Counter-Strike Global Offensive\csgo\resource\flash
 
 </li>
 
@@ -50,6 +47,14 @@ Steam\SteamApps\common\Counter-Strike Global Offensive\csgo\resource\flash
 
 
 **Change Log:** 
+
+May 11, 2013
+
+Removed hud files, the hud I use was updated so its no longer necessary to host the files here. You can download the updated hud here: http://myhyper.de/competitive-hud/
+
+Also updated the autoexec, cleaned up some of the titles. 
+
+
 
 April 26, 2013
 
