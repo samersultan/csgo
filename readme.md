@@ -47,10 +47,10 @@ This configuration comes with 9 pre-built crosshair binds, you can toggle betwee
 **Crosshair Screenshots** 
 
 
-
+<html>
 <iframe class="imgur-album" width="100%" height="550" frameborder="0" src="http://imgur.com/a/Q5BBS/embed"></iframe>
-
-To view full size images: http://imgur.com/a/Q5BBS?gallery
+</html>
+To view full size images of crosshair binds: http://imgur.com/a/Q5BBS?gallery
 
 
 
