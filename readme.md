@@ -18,7 +18,7 @@
 
 ---
 
-The following is my custom configuration for Counter Strike Global Offensive, having spent a considerable amount of time researching and compiling what I have found to be the best settings. 
+The following is my custom configuration for Counter Strike Global Offensive, having spent a considerable amount of time researching and compiling what I have found to be the best settings. I typically update this configuration configuration weekly, so check back for the latest. 
 
 
 
@@ -37,7 +37,21 @@ The rates have been set to leetway default (more info can be found  [here](http:
 
 **Raw Input and Mouse Acceleration:**
 
-Based on my research and first hand experience, the ingame rawinput 'm_rawinput 0' has been disabled. You can read more about it [here](http://www.reddit.com/r/GlobalOffensive/comments/1f8km4/csgo_raw_input_faulty/), I recommend you set up the [The MarkC Windows 8 + 7 Mouse Acceleration Fix](http://donewmouseaccel.blogspot.com/2010/03/markc-windows-7-mouse-acceleration-fix.html) to get a true 1:1 pointer response. 
+Based on my research and first-hand experience, the in game rawinput 'm_rawinput 0' has been disabled. You can read more about it [here](http://www.reddit.com/r/GlobalOffensive/comments/1f8km4/csgo_raw_input_faulty/), I recommend you set up the [The MarkC Windows 8 + 7 Mouse Acceleration Fix](http://donewmouseaccel.blogspot.com/2010/03/markc-windows-7-mouse-acceleration-fix.html) to get a true 1:1 pointer response. 
+
+**Crosshair Customization:**
+
+This configuration comes with 9 pre-built crosshair binds, you can toggle between them in game using your numpad #1 - #9. 
+
+
+**Crosshair Screenshots** 
+
+
+
+<iframe class="imgur-album" width="100%" height="550" frameborder="0" src="http://imgur.com/a/Q5BBS/embed"></iframe>
+
+To view full size images: http://imgur.com/a/Q5BBS?gallery
+
 
 
 ---
@@ -63,6 +77,16 @@ Based on my research and first hand experience, the ingame rawinput 'm_rawinput 
 <li>Restart game, make modifications to options and autoexec.cfg as you like. </li>
 <br />
 </ol>
+
+---
+
+### Support ###
+
+---
+
+Please forward all bugs, customization, ideas and support requests to the [issues](https://github.com/samersultan/csgo/issues) page: https://github.com/samersultan/csgo/issues
+
+I would be interested to see how you customize / use this autoexec, check http://www.csgo.co for further discussion  and ideas. 
 
 ---
 
