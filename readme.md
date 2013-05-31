@@ -42,7 +42,7 @@ Based on my research and first hand experience, the ingame rawinput 'm_rawinput 
 
 ---
 
-### Changelog ###
+### Installation ###
 
 ---
 
@@ -66,8 +66,7 @@ Based on my research and first hand experience, the ingame rawinput 'm_rawinput 
 
 ---
 
-### Installation ###
-
+### Changelog ###
 ---
 
 
@@ -116,6 +115,8 @@ Based on my research and first hand experience, the ingame rawinput 'm_rawinput 
 * Added 8 Crosshairs + Weapon Binds
 # Counter Strike Global Offensive Custom Configuration #
 
+# Counter Strike Global Offensive Custom Configuration #
+
 ### By Samer Sultan ###
 [http://www.sultansolutions.com](http://www.sultansolutions.com)
 
@@ -158,7 +159,7 @@ Based on my research and first hand experience, the ingame rawinput 'm_rawinput 
 
 ---
 
-### Changelog ###
+### Installation ###
 
 ---
 
@@ -182,8 +183,7 @@ Based on my research and first hand experience, the ingame rawinput 'm_rawinput 
 
 ---
 
-### Installation ###
-
+### Changelog ###
 ---
 
 
