@@ -94,6 +94,11 @@ I would be interested to see how you customize / use this autoexec, check http:/
 
 ---
 
+**June 17, 2013**
+
+* Disabled FPS max (found settings no limit made the game run smoother)
+* Changed view model to left hand
+
 
 **May 30, 2013**
 
