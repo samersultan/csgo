@@ -94,6 +94,12 @@ I would be interested to see how you customize / use this autoexec, check http:/
 
 ---
 
+
+**June 18, 2013**
+
+* Fixed errors in code
+* Commented out jump + crouch bind. Remove // if you want to use it. 
+
 **June 17, 2013**
 
 * Disabled FPS max (found settings no limit made the game run smoother)
