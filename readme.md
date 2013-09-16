@@ -10,7 +10,7 @@
 
 
 
-**Created: 12 31 2012 | Last Updated: 6 18 2013**
+**Last Updated: 9 16 2013**
 
 ---
 
@@ -18,11 +18,13 @@
 
 ---
 
-The following is my custom configuration for Counter Strike Global Offensive, having spent a considerable amount of time researching and compiling what I have found to be the best settings. I typically update this configuration configuration weekly, so check back for the latest. 
+The following is my custom configuration for Counter Strike Global Offensive, having spent a considerable amount of time researching and compiling what I have found to be a solid foundation for a autoexec.  I typically update this configuration configuration weekly, so check back for the latest. 
 
 
 
 View this autoexec as a good "frame work" and build upon it, feel free to tweak these settings to your liking, and be sure to contact me with any issues or bugs. 
+
+The video.txt file is optimized for the highest fps performance and viability, feel free to modify it to your personal preferences. 
 
 ---
 
@@ -32,7 +34,7 @@ View this autoexec as a good "frame work" and build upon it, feel free to tweak 
 
 **Rates:**
 
-The rates have been set to leetway default (more info can be found  [here](http://www.leetway.com/info/how-to-get-started)), they will scale down for 64 tick automatically.
+Rates are configured for 128 tickrate servers however will scale down for lower tickrate. 
 <br />
 
 **Raw Input and Mouse Acceleration:**
@@ -64,7 +66,7 @@ To view full size images of crosshair binds: http://imgur.com/a/Q5BBS?gallery
 <br />
 
 <ol>
-<li>The autoexec.cfg and config.cfg files will need to be uploaded to the following location on your local drive: 
+<li>The autoexec.cfg file will need to be uploaded to the following location on your local drive: 
 <br />
 'Program Files (x86)\Steam\SteamApps\common\Counter-Strike Global Offensive\csgo\cfg'
 </li>
@@ -72,11 +74,13 @@ To view full size images of crosshair binds: http://imgur.com/a/Q5BBS?gallery
 <br />
 <li>Launch game and open the developer console by hitting the ~ button </li>
 <br />
-<li>Input the following command: exec autoexec </li>
+<li>Input the following command on game start up: exec autoexec </li>
 <br />
 <li>Restart game, make modifications to options and autoexec.cfg as you like. </li>
 <br />
 </ol>
+
+
 
 ---
 
@@ -88,11 +92,37 @@ Please forward all bugs, customization, ideas and support requests to the [issue
 
 I would be interested to see how you customize / use this autoexec, check http://www.csgo.co for further discussion  and ideas. 
 
+
+---
+
+### Personal Settings ###
+
+Mouse: Zowie Gear EC2 
+
+Mousepad: Puretrak Talent
+
+Monitor: 144hz Asus 27" VG series
+
+In game resolution: 4:3 1280 x 960 
+
+Launch Options: 
+
+-freq 120 -processheap -novid -nojoy -high -tickrate 128 -threads 8 +autoexec.cfg 
+
+
 ---
 
 ### Changelog ###
 
 ---
+
+**September 16, 2013**
+
+* Updated crosshairs (new screenshots will be posted soon)
+* Updated buy binds.
+* Added voice scale controls to the "-" "+" buttons on the numpad. 
+* Added video.txt
+* Added Launch Options
 
 
 **June 18, 2013**
