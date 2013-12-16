@@ -10,7 +10,7 @@
 
 
 
-**Last Updated: 9 16 2013**
+**Last Updated: 12 16 2013**
 
 ---
 
@@ -34,7 +34,7 @@ The video.txt file is optimized for the highest fps performance and viability, f
 
 **Rates:**
 
-Rates are configured for 128 tickrate servers however will scale down for lower tickrate. 
+Rates are configured for 128 tick rate servers however will scale down for lower tick rate. 
 <br />
 
 **Raw Input and Mouse Acceleration:**
@@ -43,16 +43,7 @@ Based on my research and first-hand experience, the in game rawinput 'm_rawinput
 
 **Crosshair Customization:**
 
-This configuration comes with 9 pre-built crosshair binds, you can toggle between them in game using your numpad #1 - #9. 
-
-
-**Crosshair Screenshots** 
-
-
-<html>
-<iframe class="imgur-album" width="100%" height="550" frameborder="0" src="http://imgur.com/a/Q5BBS/embed"></iframe>
-</html>
-To view full size images of crosshair binds: http://imgur.com/a/Q5BBS?gallery
+I have included my basic crosshair however you can replace it with your own. 
 
 
 
@@ -115,6 +106,13 @@ Launch Options:
 ### Changelog ###
 
 ---
+
+**December 16, 2013**
+
+* Removed crosshair binds and replaced with single crosshair 
+* Add ignorerad and clear console binds
+* Highlight damage taken and damage given in console 
+
 
 **September 16, 2013**
 
