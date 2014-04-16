@@ -116,7 +116,7 @@ Launch Options:
 
 **April 04, 2014**
 
-* Added print damage to top left corner of screen (displays damage on screen for faster reference, thanks to r/globaloffensive user [r/maddada](https://ssl.reddit.com/user/maddada/).
+* Added print damage to top left corner of screen (displays damage on screen for faster reference, thanks to r/globaloffensive user [r/maddada](https://ssl.reddit.com/user/maddada/)).
 * Added volume and voice commands to binds that also display on top left corner of screen they are: 
   * "=" to cycle volume 
   * "-" to cycle voice_enable 0/1
