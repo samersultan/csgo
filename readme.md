@@ -121,9 +121,9 @@ Launch Options:
   * "=" to cycle volume 
   * "-" to cycle voice_enable 0/1
   * "kp_plus" and "kp_minus" to cycle voice_scale
-* Changed client port to 27006 line 61 (more [info](http://www.reddit.com/r/GlobalOffensive/comments/22x6z7/i_found_a_miracle_fix_for_my_server_browser/): ) 
+* Changed client port to 27006 line 61 (more [info](http://www.reddit.com/r/GlobalOffensive/comments/22x6z7/i_found_a_miracle_fix_for_my_server_browser/)) 
 * Added "spec_usenumberkeys_nobinds 1" 
-* Added radar zoom bound to "E" key (thanks to r/globaloffensive user [r/maddada](https://ssl.reddit.com/user/maddada/).
+* Added radar zoom bound to "E" key (thanks to r/globaloffensive user [r/maddada](https://ssl.reddit.com/user/maddada/)).
 * Added grenade knife fast binds to numpad 2-4, lines 311 to 314 (more [info](http://www.reddit.com/r/GlobalOffensive/comments/1ruxn8/how_to_throw_fast_nades_in_cs_go/cdrca06)).
 * Added clear decals to walk and crouch, lines 135 + 136.
 
