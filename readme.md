@@ -18,19 +18,20 @@
 
 ---
 
-The following is my custom configuration for Counter Strike Global Offensive, having spent a considerable amount of time researching and compiling what I have found to be a solid foundation for a autoexec.  I typically update this configuration configuration weekly, so check back for the latest. 
+The following is my custom configuration for Counter Strike Global Offensive, having spent a considerable amount of time researching and compiling what I have found to be a solid foundation for a autoexec.  I typically update this configuration configuration every few months. 
+
+**Things you will need to change for your own config**
+
+* Adjust the senativty on line 334
+* Select to enable or disable rawinput on line 336
+* Change Video.txt options to whatever you prefer
+
 
 
 
 View this autoexec as a good "frame work" and build upon it, feel free to tweak these settings to your liking, and be sure to contact me with any issues or bugs. 
 
 The video.txt file is optimized for the highest fps performance and viability, feel free to modify it to your personal preferences. 
-
-**Things you will need to change:**
-
-* Adjust the senativty on line 334
-* Select to enable or disable rawinput on line 336
-
 
 
 ---
