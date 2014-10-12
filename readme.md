@@ -24,7 +24,7 @@ The following is my custom configuration for Counter Strike Global Offensive, ha
 
 **Things you will need to change for your own config**
 
-* Adjust the senativty on line 334
+* Adjust the sensitivity on line 334
 * Select to enable or disable rawinput on line 336
 * Change Video.txt options to whatever you prefer
 
