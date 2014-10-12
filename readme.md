@@ -28,8 +28,8 @@ The video.txt file is optimized for the highest fps performance and viability, f
 
 **Things you will need to change:**
 
-* Adjust the senativty on line 291
-* Select to enable or disable rawinput on line 293 
+* Adjust the senativty on line 334
+* Select to enable or disable rawinput on line 336
 
 
 
@@ -111,6 +111,16 @@ Launch Options:
 ---
 
 ### Changelog ###
+
+---
+
+**October 10, 2014**
+
+* Added easier strafe jump binds
+* Update instructions for readme file
+* Adjusted Crosshair Settings with new  cl_crosshairgap_useweaponvalue 
+* Added ESEA remove fog command to .ready bind 
+
 
 ---
 
