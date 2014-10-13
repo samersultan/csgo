@@ -108,8 +108,9 @@ In game resolution: 4:3 (1024x768)
 
 Launch Options: 
 
-**-w 1024 -h 768 -freq 144 -refresh 144 -processheap -novid -nojoy -noforcemparms -noforcemaccel -noforcemspd -high -tickrate 128 -threads 6 -nod3d9ex -noaafonts +mat_dxlevel 90 +mat_queue_mode 2 +mat_vignette_enable 0 -nogammaramp 
-**
+```
+-w 1024 -h 768 -freq 144 -refresh 144 -processheap -novid -nojoy -noforcemparms -noforcemaccel -noforcemspd -high -tickrate 128 -threads 6 -nod3d9ex -noaafonts +mat_dxlevel 90 +mat_queue_mode 2 +mat_vignette_enable 0 -nogammaramp 
+```
 
 
 ---
