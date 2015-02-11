@@ -104,18 +104,25 @@ Mousepad: Puretrak Talent
 
 Monitor: 144hz Asus 27" VG series
 
-In game resolution: 4:3 (1024x768)
+In game resolution: 5:4 (1350x1080)
 
 Launch Options: 
 
 ```
--w 1024 -h 768 -freq 144 -refresh 144 -processheap -novid -nojoy -noforcemparms -noforcemaccel -noforcemspd -high -tickrate 128 -threads 6 -nod3d9ex -noaafonts +mat_dxlevel 90 +mat_queue_mode 2 +mat_vignette_enable 0 -nogammaramp 
+-w 1350 -h 1080 -freq 144 -refresh 144 -processheap -novid -nojoy -noforcemparms -noforcemaccel -noforcemspd -high -tickrate 128 -threads 6 -nod3d9ex -noaafonts +mat_dxlevel 90 +mat_queue_mode 2 +mat_vignette_enable 0 +weapon_recoil_model 0
 ```
 
 
 ---
 
 ### Changelog ###
+
+
+---
+
+**Feburary 10th, 2015**
+
+* Minor clean up 
 
 ---
 
