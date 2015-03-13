@@ -10,7 +10,7 @@
 
 
 
-**Last Updated: 10 / 09 / 2014**
+**Last Updated: 03 / 13 / 2015**
 
 ---
 
@@ -117,8 +117,14 @@ Launch Options:
 
 ### Changelog ###
 
+---
+
+**March 13th, 2015**
+
+* Added blip sound to volume binds.  
 
 ---
+
 
 **Feburary 10th, 2015**
 
