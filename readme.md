@@ -10,7 +10,7 @@
 
 
 
-**Last Updated: 03 / 13 / 2015**
+**Last Updated: 03 / 19 / 2015**
 
 ---
 
@@ -116,6 +116,12 @@ Launch Options:
 ---
 
 ### Changelog ###
+
+---
+
+**March 19th, 2015**
+
+* Added voice_system_enable to voice_enable bind
 
 ---
 
